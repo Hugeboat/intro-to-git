@@ -1,4 +1,4 @@
-# intro-to-git
+# intro
 Notes
 
 ##Useful Git Commands
